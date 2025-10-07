@@ -1,3 +1,3 @@
 # methodist-demo
-this was my school
+This was my school.
 Author-kashef 
